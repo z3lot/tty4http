@@ -9,4 +9,4 @@ Using a basic webshell:
 ?>
 ```
 
-Obtain a tty by http, ideal for when iptables reblas are implemented, preventing the option of a reverse shell by tcp or udp.
+Obtain a tty by http, ideal for when iptables rules are implemented, preventing the option of a reverse shell by tcp or udp.
