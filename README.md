@@ -1,6 +1,6 @@
 # TTY4http
 
-Usando una webshell basica:
+Using a basic webshell:
 ```php
 // webshell
 <?php 
