@@ -40,7 +40,6 @@ class ShellHttp():
         print('\n[*] deleted tmp files')
 
 class TTYinteractive(ShellHttp):
-    # el bucle, los hilos de lectura y escritura, hereda de la clase ShellHttp y extiende su constructor
     def __init__(self,url):
         super().__init__(url)
 
